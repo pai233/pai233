@@ -40,9 +40,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!--
-# Contacts Me
-![Gmail](https://img.shields.io/badge/gugugupai233@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gugugupai233@gmail.com) [![Telegram](https://img.shields.io/badge/@Dynesshely-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dynesshely) ![Discord](https://img.shields.io/badge/Dynesshely%234908-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) [![Twitter](https://img.shields.io/badge/@CATROL18-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/CATROL18) [![Twitch](https://img.shields.io/badge/dynesshely-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/dynesshely) [![GitHub](https://img.shields.io/badge/pai233-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dynesshely)-->
+# 📫 Contacts Me
+[![Gmail](https://img.shields.io/badge/gugugupai233@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gugugupai233@gmail.com) [![Telegram](https://img.shields.io/badge/@pai233-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pai233) ![Discord](https://img.shields.io/badge/gugugupai233%238502-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) [![Twitter](https://img.shields.io/badge/@GUGUGUPAI233-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gugugupai233) [![GitHub](https://img.shields.io/badge/pai233-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pai233) ![](https://img.shields.io/badge/2869237730-%23EB1923.svg?style=for-the-badge&logo=tencent%20qq)![](https://img.shields.io/badge/咕咕咕派-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white) [![](https://img.shields.io/badge/JOBSAU233-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jobsau233) [![](https://img.shields.io/badge/GUGUGUPAI233-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)]()
 
 
 <!--
