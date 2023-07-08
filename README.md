@@ -19,7 +19,7 @@
 # 🔭 Working on
 * [My Personal Blog📚](https://blog.pai233.top/)
 * [Go Jumper⚙](https://github.com/pai233/go-jumper)
-* Prunla Wear🛍
+* ArTranslator📌
 * Prunla Web🌏
 * ......
 
