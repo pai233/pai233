@@ -14,18 +14,18 @@
  ▀            ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
 </pre>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pai233&count_private=true&show_icons=true&&theme=darcula" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pai233&count_private=true&show_icons=true&&theme=darcula#" />
 
 # 🔭 Working on
 * [My Personal Blog📚](https://blog.pai233.top/)
 * [Go Jumper⚙](https://github.com/pai233/go-jumper)
-* ArTranslator📌
+* [ArTranslator](https://github.com/arniodev/translator)📌
 * Prunla Web🌏
 * ......
 
 <br>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pai233&layout=compact&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pai233&layout=compact&theme=dark#" />
 
 # 🌱 Learning
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -64,4 +64,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://activity-graph.herokuapp.com/graph?username=pai233&theme=react-dark)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=pai233&theme=dracula)
