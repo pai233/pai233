@@ -14,7 +14,7 @@
  ▀            ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀ 
 </pre>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pai233&count_private=true&show_icons=true&&theme=darcula#" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pai233&count_private=true&show_icons=true&&theme=dark" />
 
 # 🔭 Working on
 * [My Personal Blog📚](https://blog.pai233.top/)
@@ -25,7 +25,7 @@
 
 <br>
 <br>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pai233&layout=compact&theme=dark#" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pai233&layout=compact&theme=dark" />
 
 # 🌱 Learning
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
