@@ -31,24 +31,13 @@ I'm the founder of @arniodev™
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/Latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>
 <br>
 <img align="right" src="https://blog.pai233.top/img/avatar.jpg" />
 
 # 📫 Contacts Me
-[![Gmail](https://img.shields.io/badge/gugugupai233@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gugugupai233@gmail.com) ![Discord](https://img.shields.io/badge/gugugupai233%238502-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)  
-[![Twitter](https://img.shields.io/badge/@GUGUGUPAI233-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/gugugupai233) [![GitHub](https://img.shields.io/badge/pai233-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pai233) ![](https://img.shields.io/badge/氩极科技ArnioTech-%2300A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white) [![Telegram](https://img.shields.io/badge/@pai233-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pai233)  
-[![](https://img.shields.io/badge/JOBSAU233-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jobsau233) [![](https://img.shields.io/badge/GUGUGUPAI233-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/zh-cn/profile?gamertag=gugugupai233) [![](https://img.shields.io/badge/PAI233-%23E6162D.svg?style=for-the-badge&logo=sina%20weibo&logoColor=white)](https://weibo.com/p/1005057307480731) [![](https://img.shields.io/badge/pai233-%230084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/pai233)
-
+[![Gmail](https://img.shields.io/badge/gugugupai233@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gugugupai233@gmail.com) 
 
 <!--
 **pai233/pai233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
